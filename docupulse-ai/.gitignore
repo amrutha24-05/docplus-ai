@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+.next/
+next-env.d.ts
+
+# Env + runtime data
+.env
+.env.local
+backend/chroma_db/
+backend/data/
+backend/audio_cache/
